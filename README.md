@@ -1,0 +1,1 @@
+# PadraodeProjeto-SingletonFactory
